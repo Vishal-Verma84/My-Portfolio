@@ -193,7 +193,7 @@
 
 @media (max-width: 1023px) {
   .navbar-collapse {
-    background-color: #4b4b4b;
+    background-color: #4b4b4bd9;
     padding: 20px;
   }
   .img-wrap {
