@@ -21,7 +21,7 @@ export const experience = [
         company : 'DaddyTech Solution',
         location : ' Gurugram',
         start : 'Apr 2023', 
-        end : 'Jun 2024 ',
+        end : 'Jan 2025 ',
         desc : 'Developed and implemented UI solutions based on user requirements and wireframes, ensuring seamless integration with the backend systems.',
         imgUrl : 'images/logo1.jpg'
     },
